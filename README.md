@@ -57,6 +57,3 @@ cd client
 npm start
 
 The application will be available at http://localhost:3000/.
-
-Contributing
-If you wish to contribute to this project, please follow the guidelines mentioned in the CONTRIBUTING.md file.
