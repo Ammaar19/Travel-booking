@@ -17,10 +17,6 @@ Node.js and npm (Node Package Manager) should be installed on your system.
 MongoDB should be installed and running.
 Installation
 
-Clone the repository from GitHub.
-bash
-
-git clone https://github.com/your-username/travel-planner-pro.git
 
 Navigate to the project directory.
 bash
